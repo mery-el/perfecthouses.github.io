@@ -1,0 +1,31 @@
+<?php 
+
+return[
+    'login' => 'Connexion',
+    'email' => 'Email',
+    'pass' => 'Mot de passe',
+    'remember' => 'Enregistrer',
+    'forgot' => 'Mot de passe oublié',
+    'register' => 'S\'inscrire',
+    'haveacc' => 'Avez-vous un compte ?',
+    'fname' => 'Prénom',
+    'sname' => 'Nom',
+    'confirm' => 'Confirmez le mot de passe',
+    'reset' => 'Réinitialiser le mot de passe',
+    'resettext' => 'Mot de passe oublié? Aucun problème. Indiquez-nous simplement votre adresse e-mail et nous vous enverrons par e-mail un lien de réinitialisation de mot de passe qui vous permettra d\'en choisir un nouveau.',
+    '404' => 'Page non trouvée',
+    'notfound' => 'La page que vous recherchez n\'existe pas',
+    'gohome' => 'Page d\'accueil',
+    'sub' => 'Sujet',
+    'msg' => 'Message',
+    'send' => 'Envoyer un message',
+    'contact' => 'RESTEZ EN CONTACT AVEC NOUS',
+    'mfail' => 'Quelque chose s\'est mal passé',
+    'msuccess' => 'E-mail envoyé avec succès...',
+    'sell' => 'À vendre',
+    'rent' => 'À louer',
+    'foreclosures' => 'Saisies',
+    'selectst' => 'Sélectionnez un statut',
+    'selectp' => 'Sélectionnez un type',
+    'propertydp' => 'Description et prix du bien'
+];
